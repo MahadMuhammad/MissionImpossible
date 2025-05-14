@@ -20,7 +20,7 @@ public class Buttonl1 : MonoBehaviour
     }
     public void LoadLevel4()
     {
-        SceneManager.LoadScene("Level4");
+        SceneManager.LoadScene("level4");
     }
     public void LoadLevel5()
     {
