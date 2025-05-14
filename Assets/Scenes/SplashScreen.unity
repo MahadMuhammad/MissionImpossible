@@ -483,7 +483,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   splashDuration: 1
-  nextSceneName: SampleScene
+  nextSceneName: Menu
 --- !u!4 &1942386866
 Transform:
   m_ObjectHideFlags: 0

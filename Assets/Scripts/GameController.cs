@@ -28,6 +28,7 @@ public class GameController : MonoBehaviour{
         Success,
         Failed
     }
+
     
     // #############################################
     // ##### VARIABLES
@@ -134,8 +135,9 @@ public class GameController : MonoBehaviour{
     //------------------------
     
     // Scene which we will restart after fail/success
-    private string sceneToRestart = "SampleScene";
-    
+    private string sceneToRestart = "Menu";
+     
+
     // #############################################
     // ##### METHODS
     
